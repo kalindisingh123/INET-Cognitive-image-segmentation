@@ -1,0 +1,6 @@
+{
+  "name": "AI Skin Cancer Detection & Tumor Spread Analysis",
+  "description": "An end-to-end M.Tech level project for detecting skin cancer, classifying it as benign or malignant, segmenting the tumor using U-Net, and calculating the spread percentage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
